@@ -15,8 +15,7 @@
   
   ##
  
-<div>  
-  <a href = "mailto:ruvian.fabrin@hotmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div>    
   <a href="https://www.linkedin.com/in/ruvian-fabrin-martins-de-souza-79410856/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/RuvianFabrin/RuvianFabrin/blob/output/github-contribution-grid-snake.svg)
