@@ -1,4 +1,4 @@
-## Olá eu sou o Ruvian Fabrin, Desenvolvedor Java, especialista em backend, e passeio em frontend!
+## Olá eu sou o Ruvian Fabrin, DEVOPS!
 <div align="center">
   <a href="https://github.com/RuvianFabrin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuvianFabrin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
