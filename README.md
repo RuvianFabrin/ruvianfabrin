@@ -1,7 +1,8 @@
-## Olá eu sou o Ruvian Fabrin, DEVOPS!
-### Hard Skills: Java, Angular, GO Lang for DEVOPS,SpringMVC, SpringBoot, SpringData, Kafka, Redis, Jenkins, Vagrant, Ansible, Docker, SonarQube,Nexus, Kubernets, Operator Kuberntes, Helm, Terraform, AWS, workflow versioning, Prometheus, Grafana.
+## Ruvian Fabrin, Software Engineering!
 
-### Soft Skills: Empathy, Leadership,Integrity, Continuous improvement, Learn to listen, Communicate clearly,Know when to ask for help,Curious. 
+#### Hard Skills: Java, Angular, GO Lang for DEVOPS,SpringMVC, SpringBoot, SpringData, Kafka, Redis, Jenkins, Vagrant, Ansible, Docker, SonarQube,Nexus, Kubernets, Operator Kuberntes, Helm, Terraform, AWS, workflow versioning, Prometheus, Grafana.
+
+#### Soft Skills: Empathy, Leadership,Integrity, Continuous improvement, Learn to listen, Communicate clearly,Know when to ask for help,Curious. 
 <div align="center">
   <a href="https://github.com/RuvianFabrin">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RuvianFabrin&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
