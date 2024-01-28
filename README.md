@@ -1,6 +1,6 @@
-## Ruvian Fabrin, Software Engineering!
+## Ruvian Fabrin,!
 
-#### Hard Skills: Java, Angular, GO Lang for DEVOPS,SpringMVC, SpringBoot, SpringData, Kafka, Redis, Jenkins, Vagrant, Ansible, Docker, SonarQube,Nexus, Kubernets, Operator Kuberntes, Helm, Terraform, AWS, workflow versioning, Prometheus, Grafana.
+#### Hard Skills: Java, Angular, Spring.
 
 #### Soft Skills: Empathy, Leadership,Integrity, Continuous improvement, Learn to listen, Communicate clearly,Know when to ask for help,Curious. 
 <div align="center">
