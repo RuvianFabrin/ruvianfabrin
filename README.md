@@ -1,4 +1,4 @@
-## Ruvian Fabrin,!
+## Ruvian Fabrin, FullStack Spring e Angular!
 
 #### Hard Skills: Java, Angular, Spring.
 
